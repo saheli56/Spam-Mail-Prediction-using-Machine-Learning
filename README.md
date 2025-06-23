@@ -1,7 +1,3 @@
-Here's a clean, **well-structured README** for your repository:
-👉 **Spam Mail Prediction using Machine Learning**
-
----
 
 # 📧 Spam Mail Prediction using Machine Learning
 
